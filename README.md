@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 💪 Student of AGH University
+- 💃 Dancer in ZPiT Krakus
+- 🌱 I’m currently learning to use GitHub
+- 🔭 I’m currently working on JadloPlan
+
 
 <!--
 **margaj366/margaj366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
