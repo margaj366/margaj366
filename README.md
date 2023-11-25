@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to use GitHub
 - 🔭 I’m currently working on JadloPlan
 
-*[My page](margaj366.github.io)
+*[My page](https://github.com/margaj366/margaj366.github.io.git)
 
 
 <!--
