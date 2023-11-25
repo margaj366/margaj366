@@ -1,8 +1,10 @@
 ### Hi there 👋
 - 💪 Student of AGH University
-- 💃 Dancer in ZPiT Krakus
+- 💃 Dancer in ZPiT Krakus*
 - 🌱 I’m currently learning to use GitHub
 - 🔭 I’m currently working on JadloPlan
+
+*[My page](margaj366.github.io)
 
 
 <!--
