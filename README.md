@@ -4,8 +4,9 @@
 - 🌱 I’m currently learning to use GitHub
 - 🔭 I’m currently working on JadloPlan
 
-*[My page](https://github.com/margaj366/margaj366.github.io.git)
-
+* [My page](https://github.com/margaj366/margaj366.github.io.git)
+* [My fork](https://github.com/margaj366/Ex.git)
+* [PapersWCode](https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for)
 
 <!--
 **margaj366/margaj366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
