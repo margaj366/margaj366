@@ -1,13 +1,9 @@
 ### Hi there 👋
-- 💪 Student of AGH University
-- 💃 Dancer in ZPiT Krakus*
-- 🌱 I’m currently learning to use GitHub
-- 🔭 I’m currently working on JadloPlan
+Student of CS and Intelligent Systems | Member of Student Council | Cat lover<3
 
-* [My page]
-* 
-* [My fork](https://github.com/margaj366/Ex.git)
-* [PapersWCode](https://paperswithcode.com/paper/diffit-diffusion-vision-transformers-for)
+Collector of unfinished side projects & proud keeper of GitHub well-organised chaos 🤓
+Splitting time between Glider (frontend fun), Synaptica (serious research stuff), and the Student Council.
+Always curious, always learning, always up for new adventures.
 
 <!--
 **margaj366/margaj366** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
